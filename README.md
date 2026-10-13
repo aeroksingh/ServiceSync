@@ -202,7 +202,7 @@ Automatic email notifications are sent when:
 ## Clone Repository
 
 ```bash
-git clone https://github.com/ishikamokati30/smart-grievance-management-system.git
+git clone https://github.com/aeroksingh/ServiceSync.git
 ```
 
 ---
